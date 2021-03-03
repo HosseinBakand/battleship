@@ -9,8 +9,14 @@ proggrammed with C and WinBGIm 6.0 library for UI
 WinBGIm is a Windows C++ graphics library based on the classic Borland Graphics Interface (originally distributed with Borland’s Turbo Pascal and later with their Turbo C compilers)
 
 ## ScreenShots
-![Battleship](Screenshots/Screenshot (66).png)
+
+![battleship](Screenshots/Screenshot (66).png)
+
 ![Battleship](Screenshots/Screenshot (67).png)
+
 ![Battleship](Screenshots/Screenshot (70).png)
+
 ![Battleship](Screenshots/Screenshot (71).png)
+
 ![Battleship](Screenshots/Screenshot (72).png)
+
