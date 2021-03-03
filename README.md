@@ -1,4 +1,8 @@
 # Battleship
+
+
+![Cover](https://www.ultraboardgames.com/battleship/gfx/banner.jpg)
+
 My First Project 
 Battleship (also Battleships or Sea Battle[1]) is a strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
@@ -10,13 +14,5 @@ WinBGIm is a Windows C++ graphics library based on the classic Borland Graphics 
 
 ## ScreenShots
 
-![battleship](Screenshots/Screenshot (66).png)
-
-![Battleship](Screenshots/Screenshot (67).png)
-
-![Battleship](Screenshots/Screenshot (70).png)
-
-![Battleship](Screenshots/Screenshot (71).png)
-
-![Battleship](Screenshots/Screenshot (72).png)
-
+<img src="Screenshots/Screenshot%20(72).png" width="49%"> <img src="Screenshots/Screenshot%20(66).png" width="49%">
+<img src="Screenshots/Screenshot%20(71).png" width="49%"> <img src="Screenshots/Screenshot%20(70).png" width="49%">
